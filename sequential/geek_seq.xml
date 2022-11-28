@@ -1,0 +1,22 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols/>
+  <colorramps>
+    <colorramp type="gradient" name="geek" tags="Colorful">
+      <Option type="Map">
+        <Option type="QString" name="color1" value="128,131,82,255"/>
+        <Option type="QString" name="color2" value="236,252,93,255"/>
+        <Option type="QString" name="discrete" value="0"/>
+        <Option type="QString" name="rampType" value="gradient"/>
+      </Option>
+      <prop v="128,131,82,255" k="color1"/>
+      <prop v="236,252,93,255" k="color2"/>
+      <prop v="0" k="discrete"/>
+      <prop v="gradient" k="rampType"/>
+    </colorramp>
+  </colorramps>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
