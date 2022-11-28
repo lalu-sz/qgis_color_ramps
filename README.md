@@ -2,7 +2,7 @@
 ## DIVERGENT
 ![ColorRamps_Divergent_Display](https://user-images.githubusercontent.com/103526352/204171696-0784957d-bffe-466b-ba95-2f66bde9490a.png)
 ## SEQUENTIAL
-
+![ColorRamps_Sequential_Display](https://user-images.githubusercontent.com/103526352/204176575-bfbed268-8911-4abf-9725-b5ecf22276f0.png)
 # INSTALL
 ### 1. DOWNLOAD .XML FROM REPO
 ![image](https://user-images.githubusercontent.com/103526352/204173259-8097e1d4-08e1-435b-867f-d770fd02ed8d.png)
