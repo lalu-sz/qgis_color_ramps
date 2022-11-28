@@ -3,3 +3,14 @@
 ![ColorRamps_Divergent_Display](https://user-images.githubusercontent.com/103526352/204171696-0784957d-bffe-466b-ba95-2f66bde9490a.png)
 ## SEQUENTIAL
 ## INSTALL
+### 1. DOWNLOAD .XML FROM REPO
+
+### 2. OPEN QGIS STYLE MANAGER
+![image](https://user-images.githubusercontent.com/103526352/204172314-2cf9b887-ccb5-4b94-bac0-979e1f639582.png)
+### 3. HOVER OVER IMPORT/EXPORT BUTTON & SELECT IMPORT ITEM(S)
+![image](https://user-images.githubusercontent.com/103526352/204172430-b5c85058-aade-448b-9923-d28072f03070.png)
+### 4. NAVIGATE TO WHERE YOU SAVED THE .XML FILES AND SELECT THE DESIRED FILE
+### CLICK SELECT ALL & THEN CLICK IMPORT
+![image](https://user-images.githubusercontent.com/103526352/204172722-6951f760-44ee-4e78-87d0-1dcef3707243.png)
+### YOU SHOULD NOW BE ABLE TO SEE THE COLOR RAMP WITH THE REST OF THE COLOR RAMPS IN THE SYMBOLOGY TAB
+
