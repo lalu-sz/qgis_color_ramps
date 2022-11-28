@@ -1,0 +1,24 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols/>
+  <colorramps>
+    <colorramp type="gradient" name="toads" tags="Colorful">
+      <Option type="Map">
+        <Option type="QString" name="color1" value="23,85,1,255"/>
+        <Option type="QString" name="color2" value="101,105,180,255"/>
+        <Option type="QString" name="discrete" value="0"/>
+        <Option type="QString" name="rampType" value="gradient"/>
+        <Option type="QString" name="stops" value="0.247585;100,173,3,255:0.501208;227,231,218,255"/>
+      </Option>
+      <prop v="23,85,1,255" k="color1"/>
+      <prop v="101,105,180,255" k="color2"/>
+      <prop v="0" k="discrete"/>
+      <prop v="gradient" k="rampType"/>
+      <prop v="0.247585;100,173,3,255:0.501208;227,231,218,255" k="stops"/>
+    </colorramp>
+  </colorramps>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
